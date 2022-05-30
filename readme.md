@@ -41,6 +41,9 @@ About this section. Optional. Keep this short and focus on the list.
 - [Filter Performance Comparisons For Some Common Nebulae](https://www.prairieastronomyclub.org/filter-performance-comparisons-for-some-common-nebulae/)
 - [Sky-Watcher AZ-GTI in Equatorial Mode: Setup & User Guide](https://nightskypix.com/sky-watcher-az-gti-setup-and-user-guide/)
 - [Planetary Color Filter Guide](https://agenaastro.com/articles/choosing-a-color-planetary-filter.html)
+- [Reiner Vogel's VNS EQ Platform Build](http://www.reinervogel.net/index_e.html?/Plattform/plattform_VNS_e.html)
+- [Effects of optical abberations, obstruction and seeing on planetary images](http://www.damianpeach.com/simulation.htm)
+- [Deep Sky Watch](http://www.deepskywatch.com/messier-dso-sketches.html) - Sketches of deep sky objects. The best example of what to expect with visual observations.
 
 ## Books
 
