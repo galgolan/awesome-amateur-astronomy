@@ -51,6 +51,7 @@ Amateur Astronomy software categorized by use
 
 ### Calculators
 - [Astronomy.Tools](https://astronomy.tools/) - Online Field of View calculator for different telescope/eyepiece/camera/binocular combinations.
+- [Calculation Hub Telescope Magnification Calculator](https://calculation-hub.com/astronomy/telescope-magnification) - Free calculator for focal-length magnification, exit pupil, and approximate field of view, with observing-condition limitations.
 
 ## Articles & Guides
 
